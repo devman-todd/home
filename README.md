@@ -21,7 +21,7 @@ Before diving into cybersecurity, I spent years training clients in different gy
 
 <h2> 🤳 Get in Touch:</h2>
 
-I'm always excited to connect with like-minded individuals, share knowledge, and collaborate on innovative projects. Feel free to reach out to me on LinkedIn here, and let's start a conversation about cybersecurity, emerging threats, or potential opportunities.
+I'm always excited to connect with like-minded individuals, share knowledge, and collaborate on innovative projects. Feel free to reach out to me on LinkedIn <a href="https://www.linkedin.com/in/tadeh-anbarchian/" target="_blank">here</a>, and let's start a conversation about cybersecurity, emerging threats, or potential opportunities.
 
 Thank you for visiting my GitHub repository. I look forward to connecting with you.
 
