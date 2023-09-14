@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [File Threat Level Assessment with VirusTotal and Azure Logic Apps](https://github.com/devman-todd/File-Threat-Level-Assessment-with-VirusTotal-and-Azure-Logic-Apps)
+  - [File Severity Score with VirusTotal and Azure Logic Apps](https://github.com/devman-todd/File-Threat-Level-Assessment-with-VirusTotal-and-Azure-Logic-Apps)
   - Azure Cloud Detection with Sentinel
   - Elastic SIEM Detection Engineering
   - Nessus Vulnerability Management
