@@ -1,6 +1,6 @@
 <h2>👋 Hello, I'm Tadeh, a recent Purdue University Cybersecurity graduate with a strong passion for Threat Detection, Incident Response, and Vulnerability Management. This GitHub repository serves as a showcase of my dedication to the field and my commitment to continuous learning.</h2>
 
-<h2>👨‍💻 Cybersecurity Projects: (Currently under construciton🏗️)</h2> 
+<h2>👨‍💻 Cybersecurity Projects: (Currently under construction🏗️)</h2> 
 
   - [File Severity Score with VirusTotal and Azure Logic Apps](https://github.com/devman-todd/File-Threat-Level-Assessment-with-VirusTotal-and-Azure-Logic-Apps)
   - [Azure Cloud Detection with Sentinel](https://github.com/devman-todd/Azure-Cloud-Detection-with-Sentinel/)
