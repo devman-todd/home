@@ -1,4 +1,4 @@
-<h2>👋 Hello, I'm Tadeh, a recent Purdue University Cybersecurity graduate with a strong passion for Threat Detection, Incident Response, and Vulnerability Management. This GitHub repository serves as a showcase of my dedication to the field and my commitment to continuous learning.</h2>
+<h2>👋 Hello, I'm Tadeh, a recent Purdue University Cybersecurity graduate with a strong passion for Threat Intel, Incident Response, and Cloud Security. This GitHub repository serves as a showcase of my dedication to the field and my commitment to continuous learning.</h2>
 
 <h2>👨‍💻 Cybersecurity Projects: (Currently under construction🏗️)</h2> 
 
