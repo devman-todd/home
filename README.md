@@ -12,12 +12,12 @@
 <h2> 🌱 Courses Completed:</h2>
 
   - SANS Institute SEC275 (GFACT), SEC401 (GSEC), and SEC504 (GCIH). [scholarship recipient]
-  - SERVICENOW certified System Administrator. [scholarship recipient]
-  - SPLUNK Administrator. 
+  - ServiceNow certified System Administrator. [scholarship recipient]
+  - SPLUNK Power User/Admin. 
 
 <h2> ⚡ Fun fact:</h2>
 
-Before diving into cybersecurity, I spent years training clients in different gyms, all while using technology to run my fitness business efficiently. So at one point, I switched my major from nutrition to cybersecurity, and I haven't looked back since! From sweating it out with sets to securing IT assets, I'm all about flexing both my physical and digital muscles. (Thanks ChatGPT for the corny line 😅)
+Before diving into cybersecurity, I spent years training clients in different gyms, all while using technology to run my fitness business efficiently. So at one point, I switched my major from nutrition to cybersecurity, and I haven't looked back since! From sweating it out with sets to securing IT assets, I'm all about flexing both my physical and digital muscles. (Thanks ChatGPT for that corny line 😅)
 
 <h2> 🤳 Get in Touch:</h2>
 
