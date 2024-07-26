@@ -2,13 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects: (Currently under construction🏗️)</h2> 
 
-  - [File Severity Score with VirusTotal and Azure Logic Apps](https://github.com/devman-todd/File-Threat-Level-Assessment-with-VirusTotal-and-Azure-Logic-Apps)
-  - [Azure Cloud Detection with Sentinel](https://github.com/devman-todd/Azure-Cloud-Detection-with-Sentinel/)
-  - [Elastic SIEM Detection Engineering](https://github.com/devman-todd/Elastic-SIEM-Detection-Engineering)
-  - [Nessus Vulnerability Management](https://github.com/devman-todd/Nessus-Vulnerability-Management/)
-  - [Active Directory for Cybersecurity](https://github.com/devman-todd/Active-Directory-for-Cybersecurity)
-  - [Threat Detection with YARA](https://github.com/devman-todd/Threat-Detection-with-YARA/)
-
 <h2> 🌱 Courses Completed:</h2>
 
   - SANS Institute SEC275 (GFACT), SEC401 (GSEC), and SEC504 (GCIH). [scholarship recipient]
