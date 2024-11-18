@@ -1,16 +1,10 @@
-<h2>👋 Hello, I'm Tadeh, a SOC Analyst with a strong passion for Threat Intel, Incident Response, and Cloud Security. This GitHub repository serves as a showcase of my dedication to the field and my commitment to continuous learning.</h2>
+<h2>👋 Hello, I'm Tadeh, currently a SOC Analyst with a strong passion for security monitoring, hacking and engineering. This GitHub repository showcases my dedication to the field and my commitment to continuous learning.</h2>
 
-<h2>👨‍💻 Cybersecurity Projects: (Currently under construction🏗️)</h2> 
-
-<h2> 🌱 Courses Completed:</h2>
-
-  - SANS Institute SEC275 (GFACT), SEC401 (GSEC), and SEC504 (GCIH). [scholarship recipient]
-  - ServiceNow certified System Administrator. [scholarship recipient]
-  - SPLUNK Power User/Admin. 
+<h2>👨‍💻 Projects: (Currently under construction🏗️)</h2> 
 
 <h2> ⚡ Fun fact:</h2>
 
-Before diving into cybersecurity, I spent years training clients in different gyms, all while using technology to run my fitness business efficiently. So at one point, I switched my major from nutrition to cybersecurity, and I haven't looked back since! From sweating it out with sets to securing IT assets, I'm all about flexing both my physical and digital muscles. (Thanks ChatGPT for that corny line 😅)
+Before diving into cybersecurity, I spent years training clients in different gyms, all while using technology to run my fitness business efficiently. So at one point, I switched my major from nutrition to cybersecurity and haven't looked back since! From sweating it out with sets to securing IT assets, I'm all about flexing both my physical and digital muscles. (Thanks ChatGPT for that corny line 😅)
 
 <h2> 🤳 Get in Touch:</h2>
 
