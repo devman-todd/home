@@ -1,4 +1,4 @@
-<h2>👋 Hello, I'm Tadeh, currently a SOC Analyst with a strong passion for security monitoring and detection engineering. This GitHub repository showcases my dedication to the field and my commitment to continuous learning.</h2>
+<h2>👋 Hello, I'm Tadeh, currently a SOC Analyst with a strong passion for security monitoring, incident response, and detection engineering. This GitHub repository showcases my dedication to the field and my commitment to continuous learning.</h2>
 
 <h2>👨‍💻 Projects: (Currently under construction🏗️)</h2> 
 
